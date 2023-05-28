@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-yooncloudbackend-dev-165925-authRole",
+      "UnauthRoleArn": "arn:aws:iam::521049726185:role/amplify-yooncloudbackend-dev-165925-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::521049726185:role/amplify-yooncloudbackend-dev-165925-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-yooncloudbackend-dev-165925-deployment",
+      "UnauthRoleName": "amplify-yooncloudbackend-dev-165925-unauthRole",
+      "StackName": "amplify-yooncloudbackend-dev-165925",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:521049726185:stack/amplify-yooncloudbackend-dev-165925/90fdc820-fd2d-11ed-bfb9-028e5c46178a",
+      "AmplifyAppId": "d3ho2y4m808zhj"
+    }
+  }
+}
