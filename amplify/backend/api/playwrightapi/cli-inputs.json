@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/playwright": {
+      "name": "/playwright",
+      "lambdaFunction": "playwright",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

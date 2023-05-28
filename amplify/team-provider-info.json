@@ -17,6 +17,9 @@
           "deploymentBucketName": "amplify-yooncloudbackend-dev-165925-deployment",
           "s3Key": "amplify-builds/playwright-6a52586a73554c694e65-build.zip"
         }
+      },
+      "api": {
+        "playwrightapi": {}
       }
     }
   }
